@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pathik Sangani.
-- 👀 I’m interested in Fullstack development, AI/ML, Android/IOS developer
+- 👀 I’m interested in Fullstack development, AI/ML, Devops Technologies
 - 🌱 I’m currently learning Programming languages and Fullstack developement.
 - 📫 You can email me at pathiksangani12@gmail.com.
 

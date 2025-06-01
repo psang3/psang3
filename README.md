@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pathik Sangani</h1>
-<h3 align="center">I’m interested in Fullstack development, AI/ML, Devops Technologies</h3>
+<h3 align="center">I’m interested in Fullstack development, AI/ML, Cloud Technologies</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Devops and Cloud Technologies**
+- 🌱 I’m currently learning **Machine Learning, AI and Cloud Technologies**
 
 - 📫 How to reach me **psang3@uic.edu**
 
